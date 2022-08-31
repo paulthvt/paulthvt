@@ -15,7 +15,7 @@ I am a French experienced software engineer and a great technologies fan. Workin
 
 During my last experiences, I had the chance to work as on critical military applications that require a strong reliability and allow critical information exchange in real time. I also designed and setup a full CI/CD on a previous experience.  
 
-On my spare time I’m developing an Android app for collaborative recycling.  
+On my spare time I’m developing an [Android app](https://youtu.be/xhqTQqMVlXE) for collaborative recycling.  
 
 I like challenges, discovering new technologies and working on a team.
 <br />
